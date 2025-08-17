@@ -15,7 +15,7 @@ def main():
     ]
 
     print("=" * 60)
-    print(" 🤖 AI Question Answer Demo using LangChain + OpenAI ")
+    print("  AI Question Answer Demo using LangChain + OpenAI ")
     print("=" * 60)
 
     for i, question in enumerate(questions, start=1):
@@ -28,10 +28,11 @@ def main():
             print("-" * 60)
 
         except Exception as e:
-            print(f"❌ Error while processing Question {i}: {e}")
+            print(f" Error while processing Question {i}: {e}")
 
-    print("\n✅ Demo Completed Successfully!")
+    print("\n Demo Completed Successfully!")
 
 
 if __name__ == "__main__":
     main()
+
