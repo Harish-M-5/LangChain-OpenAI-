@@ -14,7 +14,7 @@ Lightweight Python
 
 Direct OpenAI API key integration
 
-Ask a simple question, get instant AI response
+Ask simple question, get instant AI response
 
 Beginner friendly, just app.py + requirements.txt
 
