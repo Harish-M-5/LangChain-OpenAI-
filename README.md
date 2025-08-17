@@ -1,5 +1,5 @@
 # LangChain-OpenAI
-A minimal Python project using LangChain and OpenAI GPT model to build a console-based 
+A minimal Python project using LangChain and OpenAI GPT model to build a console based 
 
 ## Overview:
 
