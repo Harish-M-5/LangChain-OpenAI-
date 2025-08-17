@@ -7,7 +7,6 @@ This is a simple Python project using LangChain + OpenAI API to answer user ques
 It demonstrates how to integrate ChatOpenAI model with a few lines of Python code.
 The project is beginner-friendly and can be extended into a student AI assistant app.
 
-ners who want to explore AI + Python without complex setup.
 
 ## Features
 
