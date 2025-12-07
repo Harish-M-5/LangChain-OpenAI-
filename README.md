@@ -10,7 +10,7 @@ The project is beginner-friendly and can be extended into a student AI assistant
 
 ## Features:
 
-Lightweight Python 
+Python 
 
 Direct OpenAI API key integration
 
