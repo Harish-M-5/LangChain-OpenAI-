@@ -5,7 +5,7 @@ A minimal Python project using LangChain and OpenAI GPT model to build a console
 
 This is a simple Python project using LangChain + OpenAI API to answer user questions.
 It demonstrates how to integrate ChatOpenAI model with a few lines of Python code.
-The project is beginner-friendly and can be extended into a student AI assistant app.
+The project is beginner-friendly and can be extended into a student AI assistant app
 
 
 ## Features:
